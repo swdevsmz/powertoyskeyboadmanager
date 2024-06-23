@@ -1,118 +1,39 @@
 {
-	"remapKeys": {
-		"inProcess": [
-			{
-				"originalKeys": "101",
-				"newRemapKeys": "40"
-			},
-			{
-				"originalKeys": "100",
-				"newRemapKeys": "37"
-			},
-			{
-				"originalKeys": "104",
-				"newRemapKeys": "38"
-			},
-			{
-				"originalKeys": "102",
-				"newRemapKeys": "39"
-			},
-			{
-				"originalKeys": "103",
-				"newRemapKeys": "33"
-			},
-			{
-				"originalKeys": "105",
-				"newRemapKeys": "34"
-			},
-			{
-				"originalKeys": "97",
-				"newRemapKeys": "36"
-			},
-			{
-				"originalKeys": "98",
-				"newRemapKeys": "35"
-			},
-			{
-				"originalKeys": "96",
-				"newRemapKeys": "44"
-			},
-			{
-				"originalKeys": "110",
-				"newRemapKeys": "160;44"
-			},
-			{
-				"originalKeys": "99",
-				"newRemapKeys": "144"
-			}
-		]
-	},
-	"remapKeysToText": {
-		"inProcess": []
-	},
-	"remapShortcuts": {
-		"global": [
-			{
-				"originalKeys": "162;219",
-				"newRemapKeys": "27"
-			},
-			{
-				"originalKeys": "163;65",
-				"newRemapKeys": "173"
-			},
-			{
-				"originalKeys": "163;68",
-				"newRemapKeys": "175"
-			},
-			{
-				"originalKeys": "163;72",
-				"newRemapKeys": "36"
-			},
-			{
-				"originalKeys": "163;73",
-				"newRemapKeys": "38"
-			},
-			{
-				"originalKeys": "163;74",
-				"newRemapKeys": "37"
-			},
-			{
-				"originalKeys": "163;75",
-				"newRemapKeys": "40"
-			},
-			{
-				"originalKeys": "163;76",
-				"newRemapKeys": "39"
-			},
-			{
-				"originalKeys": "163;78",
-				"newRemapKeys": "35"
-			},
-			{
-				"originalKeys": "163;79",
-				"newRemapKeys": "34"
-			},
-			{
-				"originalKeys": "163;80",
-				"newRemapKeys": "44"
-			},
-			{
-				"originalKeys": "163;83",
-				"newRemapKeys": "174"
-			},
-			{
-				"originalKeys": "163;85",
-				"newRemapKeys": "33"
-			},
-			{
-				"originalKeys": "163;186",
-				"newRemapKeys": "45"
-			}
-		],
-		"appSpecific": []
-	},
-	"remapShortcutsToText": {
-		"global": [],
-		"appSpecific": []
-	}
+  "remapKeys": {
+    "inProcess": [
+      { "originalKeys": "101", "newRemapKeys": "40" },
+      { "originalKeys": "100", "newRemapKeys": "37" },
+      { "originalKeys": "104", "newRemapKeys": "38" },
+      { "originalKeys": "102", "newRemapKeys": "39" },
+      { "originalKeys": "103", "newRemapKeys": "33" },
+      { "originalKeys": "161", "newRemapKeys": "144" },
+      { "originalKeys": "97", "newRemapKeys": "36" },
+      { "originalKeys": "105", "newRemapKeys": "34" },
+      { "originalKeys": "98", "newRemapKeys": "35" },
+      { "originalKeys": "96", "newRemapKeys": "44" },
+      { "originalKeys": "110", "newRemapKeys": "160;44" },
+      { "originalKeys": "99", "newRemapKeys": "144" }
+    ]
+  },
+  "remapKeysToText": { "inProcess": [] },
+  "remapShortcuts": {
+    "global": [
+      { "originalKeys": "162;219", "newRemapKeys": "27" },
+      { "originalKeys": "163;65", "newRemapKeys": "173" },
+      { "originalKeys": "163;68", "newRemapKeys": "175" },
+      { "originalKeys": "163;72", "newRemapKeys": "36" },
+      { "originalKeys": "163;73", "newRemapKeys": "38" },
+      { "originalKeys": "163;74", "newRemapKeys": "37" },
+      { "originalKeys": "163;75", "newRemapKeys": "40" },
+      { "originalKeys": "163;76", "newRemapKeys": "39" },
+      { "originalKeys": "163;78", "newRemapKeys": "35" },
+      { "originalKeys": "163;79", "newRemapKeys": "34" },
+      { "originalKeys": "163;80", "newRemapKeys": "44" },
+      { "originalKeys": "163;83", "newRemapKeys": "174" },
+      { "originalKeys": "163;85", "newRemapKeys": "33" },
+      { "originalKeys": "163;186", "newRemapKeys": "45" }
+    ],
+    "appSpecific": []
+  },
+  "remapShortcutsToText": { "global": [], "appSpecific": [] }
 }
